@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "488162281892",
+    "firebase_url": "https://mychat-52799.firebaseio.com",
+    "project_id": "mychat-52799",
+    "storage_bucket": "mychat-52799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488162281892:android:694630a4d9270fab",
+        "android_client_info": {
+          "package_name": "beloded.alexey.com.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488162281892-tpbd7jjdgr9cshum2e97tjq32l3lh351.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "beloded.alexey.com.mychat",
+            "certificate_hash": "cf191d0247d72f4513d5454dd7f2ca9b640515ce"
+          }
+        },
+        {
+          "client_id": "488162281892-nfkuc5dg2i4ms68kcdfl9kkvcgvff1qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CK-IMoLbLn6HqHvp44gMkrk4FyPvAsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488162281892-nfkuc5dg2i4ms68kcdfl9kkvcgvff1qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
